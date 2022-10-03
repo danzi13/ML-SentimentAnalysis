@@ -1,2 +1,2 @@
 # ML-sentimentAnalysis
-Twitter sentiment analysis
+Twitter sentiment analysis. Uses twitter API and the call 
